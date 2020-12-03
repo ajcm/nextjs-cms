@@ -9,11 +9,6 @@ import utilStyles from '../../styles/utils.module.css'
 
 const Page = ({posts,sidebar,page}) =>{
 
-  // return (
-  //   <Template posts={posts} sidebar={sidebar} >
-    
-  //   </Template>   
-  // );
 
   return (<p>Hello</p>)
 }
